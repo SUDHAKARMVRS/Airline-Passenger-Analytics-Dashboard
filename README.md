@@ -179,6 +179,9 @@ Time Intelligence
 
 Business Insight Generation
 
+## 📷 Screenshot
+<img width="1157" height="668" alt="airline" src="https://github.com/user-attachments/assets/d76ff179-2c03-44b5-8a9e-c253a71fe212" />
+
 ## 🙋‍♂️ Author
 Sudhakar M.
 📫 [LinkedIn] 📧 sudhakar.mvrs@gmail.com
